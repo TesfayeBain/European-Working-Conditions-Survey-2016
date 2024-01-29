@@ -1,1 +1,1 @@
-# Machine_Learning_Course_Work
+# Machine_Learning_Project
